@@ -1,0 +1,35 @@
+        .entry {
+            padding: 25px;
+        }
+
+        .aa {
+            height: 100px;
+            width: 100px;
+        }
+
+        .error {
+            display: none;
+        }
+
+        .success {
+            display: none;
+        }
+
+        .same {
+            display: none;
+        }
+
+        .delete {
+            display: none;
+        }
+
+        .tab {
+            text-align: right;
+        }
+
+        .right {
+            text-align: left;
+        }
+        .img-close{
+            text-align: center;
+        }
